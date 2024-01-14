@@ -1,15 +1,16 @@
 # Random-process-and-digital-modulation
 A. 1_Rayleigh distribution :
 Rayleigh distribution in theory
+
 ![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/876b2876-0b20-4f9c-808c-ed33af943685)
 
 normal random variable with n = 1000:
 
-![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/fc712266-4850-456a-b258-95ad2dfbdb8d)
+
 
 Rayleigh distribution with n = 1000 
 
-![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/0a381436-31c5-4d10-af34-b99a63860435)
+![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/0a381436-31c5-4d10-af34-b99a63860435) , ![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/fc712266-4850-456a-b258-95ad2dfbdb8d)
 
 normal random variable with n = 10000:
 
