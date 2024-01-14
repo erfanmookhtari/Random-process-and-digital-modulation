@@ -44,9 +44,43 @@ mean in theory:
 
 
 
+C. introducing with digital communicaion :
+
+Analog signal :
+
+
+![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/a87d4d9a-0fc4-4c82-8b99-05e481656b4b)
+
+
+sampling :
+
+![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/84b3b7a4-64af-489e-996d-39ddb45461da)
+
+quantization
+
+![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/52fdb73e-a8e2-4e83-84cb-3603939fad47)
+
+
+digitalizing :
+
+
+![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/b6159d61-9687-4c18-bbfd-379f4b72769b)
 
 
 
+Signal with noise :
+
+![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/ef952159-0537-464a-873c-54e062959aa3)
+
+
+Decode the digital signal :
+
+![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/ff2af713-a803-41ae-8786-0947a990b96b)
+
+
+convert Digital signal to Analog
+
+![Uploading image.png…]()
 
 
 
