@@ -80,7 +80,8 @@ Decode the digital signal :
 
 convert Digital signal to Analog
 
-![Uploading image.png…]()
+![image](https://github.com/erfanmookhtari/Random-process-and-digital-modulation/assets/156583460/0297d4e6-c9c9-4754-ad94-508c5314f4ac)
+
 
 
 
