@@ -1,4 +1,5 @@
 # Random-process-and-digital-modulation
+The purpose of performing this exercise is to review engineering statistics and probability, quantization  and pulse modulation. At the beginning of the work and in the first section, we will have a brief overview of normal random variables, conditional probabilities, and correlations. In the second section, we will examine stationary random processes and plot their autocorrelation function in two dimensions to demonstrate their independence from time. Finally, in the concluding section, we will also become familiar with pulse modulation and attempt to implement a digital transmitter and receiver with decoding in the presence of noise.
 A. 1_Rayleigh distribution :
 Rayleigh distribution in theory
 
